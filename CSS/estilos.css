@@ -1,8 +1,8 @@
 body
 {
-    color:blue;
+    color:black;
     text-align: center;
-    font-family: "Arial";
+    font-family: "courier";
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@ body
 
 #cabecera
 {
-    background: #33A;
+    background: black;
     color: white;
     font-weight: bold;
     margin: 0;
@@ -28,5 +28,5 @@ body
 
 #container h1
 {
-
+    font-size: 20px;
 }
